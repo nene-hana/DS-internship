@@ -2,7 +2,6 @@
 ## E-Commerce Sales Analytics Project
 
 
-### Intern: Pavithra (Pavi)  
 ### Domain: Finance / Sales / E-Commerce Analytics  
 ### Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, GitHub  
 ### Dataset Source: [E-Commerce Sales Analysis](https://www.kaggle.com/datasets/fahmidachowdhury/e-commerce-sales-analysis)
