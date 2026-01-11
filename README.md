@@ -1,7 +1,6 @@
-# 📊 Teklearn Advanced Data Science Internship  
+# 📊 Teklearn  Data Science Internship  
+--------
 ## E-Commerce Sales Analytics Project
-
-
 ### Domain: Finance / Sales / E-Commerce Analytics  
 ### Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, GitHub  
 ### Dataset Source: [E-Commerce Sales Analysis](https://www.kaggle.com/datasets/fahmidachowdhury/e-commerce-sales-analysis)
