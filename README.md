@@ -35,8 +35,7 @@ The dataset represents transactional sales data from an e-commerce platform, con
 
 - Product details  
 - Category information  
-- Pricing and revenue  
-- Order and sales timestamps  
+- Pricing
 - Customer purchasing patterns  
 
 
@@ -57,24 +56,6 @@ By answering these questions, businesses can make **data-driven decisions** rela
 
 ---
 
-
-##  Why This Domain?
-
-
-E-commerce analytics is a core application area of data science and is highly relevant across industries.  
-This domain was chosen because it:
-
-
-- Represents **real business decision-making scenarios**
-- Requires strong **data cleaning and transformation skills**
-- Helps develop **analytical thinking**, not just coding ability
-- Is widely used by tech companies, startups, and MNCs
-
-
-Working with sales data also builds foundational skills applicable to finance, marketing, and product analytics roles.
-
-
----
 
 
 ## 🛠 Skills Applied During Internship
@@ -112,34 +93,6 @@ Working with sales data also builds foundational skills applicable to finance, m
 - Translating numbers into insights  
 - Answering domain-specific business questions  
 - Writing clear interpretations alongside code  
-
-
----
-
-
-## 📊 Project Outputs
-
-
-This repository contains:
-
-
-- **Dataset Explorer Notebook**  
-  - Dataset overview  
-  - Column explanations  
-  - Basic statistics using Python  
-  - Initial observations  
-
-
-- **Data Cleaning & Analysis Notebook**  
-  - Cleaned dataset  
-  - Pandas-based analysis  
-  - Domain-specific business questions answered  
-  - Written insights in markdown cells  
-
-
-
-
-Each notebook focuses not only on *what code is written*, but *why it is written* — demonstrating understanding of data rather than mechanical execution.
 
 
 ---
